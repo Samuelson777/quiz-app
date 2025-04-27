@@ -22,3 +22,6 @@ You can view the live application at: [Quiz App](https://samuelson777.github.io/
 - HTML
 - CSS
 - JavaScript
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/quiz-app/blob/main/LICENSE) file for details.
